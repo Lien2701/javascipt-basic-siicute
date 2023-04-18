@@ -1,1 +1,1 @@
-console.log('Hello World from JavaScipt')
+console.log('Hello World from Javascript')
